@@ -1,0 +1,16 @@
+{
+  "name": "best-security-apologize-bnpyc",
+  "productName": "best-security-apologize-bnpyc",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "jeswi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
